@@ -1,0 +1,7 @@
+p-column, ng-template, a{
+  text-decoration: none;
+}
+
+p-column, ng-template, a:hover{
+  text-decoration: underline;
+}
